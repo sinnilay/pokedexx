@@ -1,0 +1,14 @@
+.outerpokedex{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+
+
+.pokedex-headding{
+   
+    margin: 0 auto;
+    letter-spacing: 5px;
+}
